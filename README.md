@@ -16,7 +16,7 @@
 1. 安装 Tampermonkey 或 Violentmonkey。
 2. 新建脚本。
 3. 将 `douyin-url-extractor.user.js` 的内容复制进去并保存。
-4. 打开 `https://www.douyin.com/`，页面右侧会出现“抖”按钮。
+4. 打开 `https://www.douyin.com/`，页面左下角会出现“抖”按钮。
 
 ## 使用
 
